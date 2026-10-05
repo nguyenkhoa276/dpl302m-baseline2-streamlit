@@ -1,5 +1,7 @@
 streamlit
 torch
+torchvision
+torchaudio
 transformers
 librosa
 soundfile
